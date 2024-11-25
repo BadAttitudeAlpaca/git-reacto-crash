@@ -1,3 +1,9 @@
+// git_token = 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
+// git remote set-url origin https://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@github.com/BadAttitudeAlpaca/git-reacto-crash
+// git add .
+// git commit -m 'base initial commit'
+// git push -u origin master
+
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
